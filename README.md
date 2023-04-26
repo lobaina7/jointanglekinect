@@ -6,7 +6,7 @@ record the motions of the elbow. The angles in degrees were calculated from the
 joint coordinates obtained by the skeleton tracked with the depth camera. During
 the movements, only three joints were needed:
 
-![image](https://user-images.githubusercontent.com/93672385/234713900-9e4cb409-dce9-4d10-83ff-cf98141d6773.png){#figura1}
+![image](https://user-images.githubusercontent.com/93672385/234713900-9e4cb409-dce9-4d10-83ff-cf98141d6773.png){:label="figura1"}
 
 Figura: Angles resulting from the measurement. The skeleton of the upper extremities is
 marked in the red line, while the study joint, is in the yellow line
@@ -14,7 +14,7 @@ marked in the red line, while the study joint, is in the yellow line
 ![image](https://user-images.githubusercontent.com/93672385/234714635-1ac62e38-732b-481a-ac06-11dba708a4b0.png)
 
 Figura: Articular angle of the elbow during flexion and extension movement, in this case, the
-beta angle (see Figure [@figura1]). Measurements were acquired during the subject’s maximum flexion
+beta angle (see Figure \ref{figura1}). Measurements were acquired during the subject’s maximum flexion
 and then a 90-degree approach.
 
 
