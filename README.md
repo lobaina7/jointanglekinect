@@ -13,7 +13,7 @@ marked in the red line, while the study joint, is in the yellow line
 
 ![image](https://user-images.githubusercontent.com/93672385/234714635-1ac62e38-732b-481a-ac06-11dba708a4b0.png)
 
-Articular angle of the elbow during flexion and extension movement, in this case, the
+Figura: Articular angle of the elbow during flexion and extension movement, in this case, the
 beta angle (see Figure [@figura1]). Measurements were acquired during the subject’s maximum flexion
 and then a 90-degree approach.
 
